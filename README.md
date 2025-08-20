@@ -69,7 +69,7 @@ Cada tecnologia é uma conquista, cada projeto é uma missão cumprida.
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=transparent&fontColor=8A2BE2&height=120&section=footer&text=✨+“Cada+linha+de+código+é+XP+✨&fontSize=20)
+![Footer](https://capsule-render.vercel.app/api?type=transparent&fontColor=8A2BE2&height=120&section=footer&text=✨+“Cada+linha+de+código+é+XP+✨&fontSize=50)
 
 
 
