@@ -52,6 +52,7 @@ Cada tecnologia é uma conquista, cada projeto é uma missão cumprida.
 ![Snake animation](https://raw.githubusercontent.com/CarolineOliveiraSilva/CarolineOliveiraSilva/output/snake.svg)
 
 
+
 </div>
 
 ---
