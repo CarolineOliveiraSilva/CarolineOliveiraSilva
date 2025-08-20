@@ -1,9 +1,9 @@
-name: generate-snake
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # roda todo dia à meia-noite UTC
-  workflow_dispatch:       # permite rodar manualmente
+    - cron: "0 0 * * *" # roda todo dia à meia-noite UTC
+  workflow_dispatch:     # permite rodar manualmente
 
 jobs:
   build:
@@ -15,9 +15,6 @@ jobs:
           github_user_name: CarolineOliveiraSilva
           outputs: |
             dist/snake.svg
-
-      - name: Trocar cor para roxo
-        run: sed -i 's/fill="#39d353"/fill="#a855f7"/g' dist/snake.svg
 
       - name: Publicar no branch output
         uses: crazy-max/ghaction-github-pages@v4
