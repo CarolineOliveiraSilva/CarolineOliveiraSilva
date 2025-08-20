@@ -33,7 +33,7 @@ Cada tecnologia é uma conquista, cada projeto é uma missão cumprida.
 🕹️ Missão: Validar idade do player e mostrar feedback.  
 *Ferramentas*: HTML, CSS, JavaScript.  
 
-🔹 **[Contador de Cliques](https://github.com/CarolineOliveiraSilva/Contador-de-cliques)**  
+🔹 **[Contador de Cliques](https://github.com/CarolineOliveiraSilva/Contador-de-clique)**  
 🕹️ Missão: Contabilizar ações do usuário em tempo real.  
 *Ferramentas*: HTML, CSS, JavaScript.  
 
