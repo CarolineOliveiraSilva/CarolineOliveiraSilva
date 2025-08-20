@@ -56,4 +56,5 @@
  ![Snake animation](https://raw.githubusercontent.com/CarolineOliveiraSilva/CarolineOliveiraSilva/output/github-contribution-grid-snake.svg)
 
 
+
 </p>
