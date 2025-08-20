@@ -53,4 +53,6 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolineoliveirasilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+  ![Snake animation](https://github.com/CarolineOliveiraSilva/CarolineOliveiraSilva/blob/output/github-contribution-grid-snake.svg)
+
 </p>
