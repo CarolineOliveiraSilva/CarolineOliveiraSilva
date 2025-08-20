@@ -1,13 +1,13 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Caroline%20Oliveira%20🎮&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Olá%20Seja+Bem+Vindo(a)%20🎮&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35)
 
-# ✨ Caroline Oliveira  
+  
 
 > 💻 Desenvolvedora Web | 🚀 Explorando novas tecnologias | 🎮 Jogando no time da tecnologia  
 
 ---
 
 ## 🧑‍🚀 Sobre mim  
-👋 Oi! Eu sou a Caroline, uma desenvolvedora que encara o código como um **jogo de fases**.  
+ Desenvolvedora que encara o código como um **jogo de fases**.  
 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** e estudando **Java** e **AWS** para evoluir ainda mais meu "nível de jogadora".  
 Cada tecnologia é uma conquista, cada projeto é uma missão cumprida.  
 
