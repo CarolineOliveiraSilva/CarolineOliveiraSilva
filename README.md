@@ -37,7 +37,7 @@ Cada tecnologia é uma conquista, cada projeto é uma missão cumprida.
 🕹️ Missão: Contabilizar ações do usuário em tempo real.  
 *Ferramentas*: HTML, CSS, JavaScript.  
 
-🔹 **[Lista de Compras](https://github.com/CarolineOliveiraSilva/Lista-de-compras)**  
+🔹 **[Lista de Compras](https://github.com/CarolineOliveiraSilva/Listadecompras)**  
 🕹️ Missão: Gerenciar itens da lista como um inventário de jogo.  
 *Ferramentas*: HTML, CSS, JavaScript.  
 
