@@ -6,7 +6,7 @@
 
 ---
 
-## 🧑‍🚀 Sobre mim  
+   ## 🧑‍🚀 Sobre mim  
  Desenvolvedora que encara o código como um **jogo de fases**.  
 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** e estudando **Java** e **AWS** para evoluir ainda mais meu "nível de jogadora".  
 Cada tecnologia é uma conquista, cada projeto é uma missão cumprida.  
@@ -61,7 +61,7 @@ Cada tecnologia é uma conquista, cada projeto é uma missão cumprida.
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=transparent&fontColor=8A2BE2&height=120&section=footer&text=✨+“Cada+linha+de+código+é+XP+✨&fontSize=50)
+![Footer](https://capsule-render.vercel.app/api?type=transparent&fontColor=8A2BE2&height=120&section=footer&text=✨+“Cada+linha+de+código+é+XP+✨&fontSize=30)
 
 
 
