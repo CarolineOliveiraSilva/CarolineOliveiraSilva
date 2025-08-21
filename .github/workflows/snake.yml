@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # roda todo dia à meia-noite UTC
-  workflow_dispatch:       # permite rodar manualmente
+    - cron: "0 0 * * *"   
+  workflow_dispatch:       
 
 jobs:
   build:
@@ -12,14 +12,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Gerar cobrinha
-        uses: Platane/snk@v3
+      - name: Gerar cobrinha roxa
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: CarolineOliveiraSilva
           outputs: |
             dist/snake.svg
-            dist/snake.gif
-            dist/snake.png
+          palette: github-dark  
+          grid_size: 10        
 
       - name: Publicar no branch output
         uses: peaceiris/actions-gh-pages@v3
@@ -27,3 +27,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: dist
+
