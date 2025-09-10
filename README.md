@@ -19,9 +19,10 @@ Cada tecnologia é uma conquista, cada projeto é uma missão cumprida.
 |-------|-------|
 | 🧱 **HTML & CSS** | ⭐⭐⭐⭐☆ |
 | ⚡ **JavaScript** | ⭐⭐⭐☆☆ |
+| 🌍 **Git/GitHub** | ⭐⭐⭐⭐☆ |
 | ☕ **Java** | ⭐⭐☆☆☆ *(em evolução)* |
 | ☁️ **AWS** | ⭐⭐☆☆☆ *(em evolução)* |
-| 🌍 **Git/GitHub** | ⭐⭐⭐⭐☆ |
+| 💻 **C** | ⭐⭐☆☆☆ *(em evolução)* |
 
 *(⭐ vai de 1 a 5 — cada tecnologia é um “nível” que estou evoluindo)*  
 
