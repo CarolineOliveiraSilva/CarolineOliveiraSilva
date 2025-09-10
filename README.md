@@ -18,8 +18,8 @@ Cada tecnologia é uma conquista, cada projeto é uma missão cumprida.
 | Skill | Level |
 |-------|-------|
 | 🧱 **HTML & CSS** | ⭐⭐⭐⭐☆ |
-| ⚡ **JavaScript** | ⭐⭐⭐☆☆ |
 | 🌍 **Git/GitHub** | ⭐⭐⭐⭐☆ |
+| ⚡ **JavaScript** | ⭐⭐⭐☆☆ |
 | ☕ **Java** | ⭐⭐☆☆☆ *(em evolução)* |
 | ☁️ **AWS** | ⭐⭐☆☆☆ *(em evolução)* |
 | 💻 **C** | ⭐⭐☆☆☆ *(em evolução)* |
