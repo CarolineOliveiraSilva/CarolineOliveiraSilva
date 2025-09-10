@@ -49,7 +49,7 @@ Cada tecnologia é uma conquista, cada projeto é uma missão cumprida.
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=CarolineOliveiraSilva&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineOliveiraSilva&layout=compact&cache_seconds=30) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineOliveiraSilva&layout=compact&cache_seconds=30/compact&theme=tokyonight) 
 ![Snake animation dark](https://raw.githubusercontent.com/CarolineOliveiraSilva/CarolineOliveiraSilva/output/snake.svg#gh-dark-mode-only)
 ![Snake animation light](https://raw.githubusercontent.com/CarolineOliveiraSilva/CarolineOliveiraSilva/output/snake.svg#gh-light-mode-only)
 
