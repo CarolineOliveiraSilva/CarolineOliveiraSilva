@@ -48,7 +48,7 @@ Cada tecnologia é uma conquista, cada projeto é uma missão cumprida.
 
 <div align="center">
 
-![Anurag's GitHub stats](github-readme-stats-teal-gamma-66.vercel.app/428Q5BKiB2ak6R5azkECjqPc9mcC/api?username=CarolineOliveiraSilva&theme=dark&show_icons=true)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolineOliveiraSilva&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineOliveiraSilva&layout=compact&cache_seconds=30/compact&theme=tokyonight) 
 ![Snake animation dark](https://raw.githubusercontent.com/CarolineOliveiraSilva/CarolineOliveiraSilva/output/snake.svg#gh-dark-mode-only)
 ![Snake animation light](https://raw.githubusercontent.com/CarolineOliveiraSilva/CarolineOliveiraSilva/output/snake.svg#gh-light-mode-only)
