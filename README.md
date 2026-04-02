@@ -47,8 +47,8 @@ Cada tecnologia é uma conquista, cada projeto é uma missão cumprida.
 ## 📊 Status do Player (GitHub)  
 
 <div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineOliveiraSilva&layout=compact&cache_seconds=30/compact&theme=tokyonight) 
+  
+![Top Langs](<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineOliveiraSilva&layout=compact&theme=dark" />)
 ![Snake animation dark](https://raw.githubusercontent.com/CarolineOliveiraSilva/CarolineOliveiraSilva/output/snake.svg#gh-dark-mode-only)
 ![Snake animation light](https://raw.githubusercontent.com/CarolineOliveiraSilva/CarolineOliveiraSilva/output/snake.svg#gh-light-mode-only)
 
