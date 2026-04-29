@@ -7,8 +7,8 @@ Sou uma desenvolvedora focada em construir aplicações eficientes, seguras e co
 
 ### 🎯 Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, construindo uma base técnica sólida em engenharia de software.
-- 💻 Aplicando ativamente os conceitos de Programação Orientada a Objetos (POO) e modelagem de dados através de projetos práticos e resolução de algoritmos.
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas **, construindo uma base técnica sólida em engenharia de software.
+- 💻 Aplicando ativamente os conceitos de Programação Orientada a Objetos  e modelagem de dados através de projetos práticos e resolução de algoritmos.
 - 🌱 **Estudando no momento:** Aprofundando o desenvolvimento Backend com **Java**, estruturação de Bancos de Dados Relacionais (**MySQL**).
 
 ### 📊 Meus Status no GitHub
