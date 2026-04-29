@@ -33,18 +33,15 @@ Sou uma desenvolvedora focada em construir aplicações eficientes, seguras e co
 
 ### 🚀 Projetos em Destaque
 
-* **[Simulador Bancário](link_do_repositorio_aqui)**
+* **[Simulador Bancário](https://github.com/CarolineOliveiraSilva/exercicios-java/tree/main/05-simulador-bancario)**
   * **Descrição:** Sistema de terminal para processamento de transações. Focado na aplicação rigorosa de POO, encapsulamento de dados sensíveis e sobrecarga de métodos.
   * *Stack:* Java.
-* **[EcoAção - Plataforma Web](link_do_repositorio_aqui)**
+* **[EcoAção - Plataforma Web](https://github.com/CarolineOliveiraSilva/OngProjeto)**
   * **Descrição:** Desenvolvimento full-page de um site semântico e responsivo para uma ONG ambiental fictícia, focado em acessibilidade e design estrutural.
   * *Stack:* HTML, CSS, JavaScript.
-* **[Portal de Links (Central Hub)](link_do_repositorio_aqui)**
-  * **Descrição:** Criação e deploy (hospedagem via GitHub Pages) de um agregador de links personalizado, com design responsivo e customização de CSS.
-  * *Stack:* HTML, CSS.
-* **[Validador Dinâmico de Dados (Verificador de Idade)](link_do_repositorio_aqui)**
-  * **Descrição:** Aplicação client-side para validação de formulários e renderização de feedback em tempo real para o usuário.
-  * *Stack:* HTML, CSS, JavaScript.
+* **[AlugaFácil - Banco de Dados para Locadora]([link_do_repositorio_aqui](https://github.com/CarolineOliveiraSilva/banco-dados-alugafacil))**
+  * **Descrição:** Modelagem e implementação de um banco de dados relacional completo para gestão de frota, ciclo de contratos e cálculo automatizado de multas. Aplica conceitos de integridade referencial (PK/FK) e otimização de consultas (Views).
+  * *Stack:* MySQL, Arquitetura de Dados.
 
 ---
 <p align="left">
