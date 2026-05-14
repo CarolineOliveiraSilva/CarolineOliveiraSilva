@@ -11,11 +11,20 @@ Sou uma desenvolvedora focada em construir aplicações eficientes, seguras e co
 - 💻 Aplicando ativamente os conceitos de Programação Orientada a Objetos  e modelagem de dados através de projetos práticos e resolução de algoritmos.
 - 🌱 **Estudando no momento:** Aprofundando o desenvolvimento Backend com **Java**, estruturação de Bancos de Dados Relacionais (**MySQL**).
 
-### 📊 Meus Status no GitHub
+### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarolineOliveiraSilva&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineOliveiraSilva&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarolineOliveiraSilva&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 📚 Estudo Atual
+
+
+<p align="left">
+  <a href="https://github.com/CarolineOliveiraSilva/java-backend-exercises">
+   <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
+</p>
 </p>
 
 ### 🛠️ Tecnologias e Ferramentas
@@ -39,7 +48,7 @@ Sou uma desenvolvedora focada em construir aplicações eficientes, seguras e co
 * **[EcoAção - Plataforma Web](https://github.com/CarolineOliveiraSilva/OngProjeto)**
   * **Descrição:** Desenvolvimento full-page de um site semântico e responsivo para uma ONG ambiental fictícia, focado em acessibilidade e design estrutural.
   * *Stack:* HTML, CSS, JavaScript.
-* **[AlugaFácil - Banco de Dados para Locadora]([link_do_repositorio_aqui](https://github.com/CarolineOliveiraSilva/banco-dados-alugafacil))**
+* **[AlugaFácil - Banco de Dados para Locadora](https://github.com/CarolineOliveiraSilva/banco-dados-alugafacil)**
   * **Descrição:** Modelagem e implementação de um banco de dados relacional completo para gestão de frota, ciclo de contratos e cálculo automatizado de multas. Aplica conceitos de integridade referencial (PK/FK) e otimização de consultas (Views).
   * *Stack:* MySQL, Arquitetura de Dados.
 
