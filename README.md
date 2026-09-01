@@ -40,19 +40,21 @@ Sou uma desenvolvedora focada em construir aplicações eficientes, seguras e co
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
-### 🚀 Projetos em Destaque
+**Projetos em Destaque**
 
-* **[Simulador Bancário](https://github.com/CarolineOliveiraSilva/exercicios-java/tree/main/05-simulador-bancario)**
-  * **Descrição:** Sistema de terminal para processamento de transações. Focado na aplicação rigorosa de POO, encapsulamento de dados sensíveis e sobrecarga de métodos.
-  * *Stack:* Java.
-* **[EcoAção - Plataforma Web](https://github.com/CarolineOliveiraSilva/OngProjeto)**
-  * **Descrição:** Desenvolvimento full-page de um site semântico e responsivo para uma ONG ambiental fictícia, focado em acessibilidade e design estrutural.
-  * *Stack:* HTML, CSS, JavaScript.
-* **[AlugaFácil - Banco de Dados para Locadora](https://github.com/CarolineOliveiraSilva/banco-dados-alugafacil)**
-  * **Descrição:** Modelagem e implementação de um banco de dados relacional completo para gestão de frota, ciclo de contratos e cálculo automatizado de multas. Aplica conceitos de integridade referencial (PK/FK) e otimização de consultas (Views).
-  * *Stack:* MySQL, Arquitetura de Dados.
+- [Shelfwise Library System](https://github.com/CarolineOliveiraSilva/shelfwise-library-system)
+  - **Descrição:** Sistema de gerenciamento de biblioteca em console desenvolvido em Java, focado em Programação Orientada a Objetos, manipulação de coleções e automação de regras de negócio. MVP estruturado para futuras evoluções arquiteturais.
+  - **Stack:** Java, Object-Oriented Programming, Java Time API.
 
----
+- [Ticket Management App](https://github.com/CarolineOliveiraSilva/ticket-management-app)
+  - **Descrição:** Aplicação voltada para o back-end em Java focada no gerenciamento e rastreamento de chamados, estruturando lógica de fluxo de dados e controle de estados.
+  - **Stack:** Java, OOP, Business Logic.
+
+- [Java Backend Foundations](https://github.com/CarolineOliveiraSilva/java-backend-foundations)
+  - **Descrição:** Repositório dedicado ao armazenamento de exercícios, algoritmos e mini-projetos desenvolvidos na consolidação dos fundamentos e modelagem em Java.
+  - **Stack:** Java, Algorithms, Problem Solving.
+
+
 <p align="left">
   📫 <b>Contato:</b> <a href="mailto:carolline1995@hotmail.com">carolline1995@hotmail.com</a> | <a href="https://linkedin.com/in/caroline-oliveira-828504365">LinkedIn</a>
 </p>
