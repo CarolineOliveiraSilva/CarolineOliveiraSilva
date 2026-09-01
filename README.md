@@ -10,7 +10,7 @@ Sou uma desenvolvedora focada em construir aplicações eficientes, seguras e co
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas **, construindo uma base técnica sólida em engenharia de software.
 - 💻 Aplicando ativamente os conceitos de Programação Orientada a Objetos  e modelagem de dados através de projetos práticos e resolução de algoritmos.
 - 🌱 **Estudando no momento:** Aprofundando o desenvolvimento Backend com **Java**, estruturação de Bancos de Dados Relacionais (**MySQL**).
-
+- 📖 Repositórios documentados em inglês como parte da minha prática contínua e alinhamento com os padrões globais de desenvolvimento.
 ### 📊 GitHub Metrics
 
 <p align="center">
