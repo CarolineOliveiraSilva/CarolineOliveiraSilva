@@ -7,7 +7,7 @@ Sou uma desenvolvedora focada em construir aplicações eficientes, seguras e co
 
 ### 🎯 Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas **, construindo uma base técnica sólida em engenharia de software.
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, construindo uma base técnica sólida em engenharia de software.
 - 💻 Aplicando ativamente os conceitos de Programação Orientada a Objetos  e modelagem de dados através de projetos práticos e resolução de algoritmos.
 - 🌱 **Estudando no momento:** Aprofundando o desenvolvimento Backend com **Java**, estruturação de Bancos de Dados Relacionais (**MySQL**).
 - 📖 Repositórios documentados em inglês como parte da minha prática contínua e alinhamento com os padrões globais de desenvolvimento.
@@ -53,7 +53,10 @@ Sou uma desenvolvedora focada em construir aplicações eficientes, seguras e co
 - [Java Backend Foundations](https://github.com/CarolineOliveiraSilva/java-backend-foundations)
   - **Descrição:** Repositório dedicado ao armazenamento de exercícios, algoritmos e mini-projetos desenvolvidos na consolidação dos fundamentos e modelagem em Java.
   - **Stack:** Java, Algorithms, Problem Solving.
-
+    
+- [Worker Contract System](https://github.com/CarolineOliveiraSilva/worker-spring-system).
+  - **Descrição:** API REST desenvolvida em Java com Spring Boot para gerenciamento de trabalhadores, departamentos e contratos de hora, estruturada com Spring Data JPA e banco de dados H2.
+  - **Stack:** Java, Spring Boot, Spring Data JPA, H2 Database.
 
 <p align="left">
   📫 <b>Contato:</b> <a href="mailto:carolline1995@hotmail.com">carolline1995@hotmail.com</a> | <a href="https://linkedin.com/in/caroline-oliveira-828504365">LinkedIn</a>
